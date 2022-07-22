@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ruang Diskusi</string>
+
+    <string name="agreement">
+        Saya paham dan siap menaati peraturan peminjaman ruang diskusi.
+    </string>
+</resources>
