@@ -3,11 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/detail_box.xml" value="0.1675" />
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/ic_date.xml" value="0.1465" />
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1465" />
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/input_box.xml" value="0.1465" />
+        <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/pending_status.xml" value="0.1675" />
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/primary_button.xml" value="0.1465" />
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/secondary_button.xml" value="0.1675" />
+        <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/status.xml" value="0.1675" />
+        <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/success_status.xml" value="0.1675" />
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/table_body.xml" value="0.1465" />
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/table_header.xml" value="0.1465" />
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/drawable/table_row.xml" value="0.1465" />
@@ -18,6 +22,9 @@
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/font/popp.xml" value="0.23055555555555557" />
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/font/poppins.xml" value="0.23055555555555557" />
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/font/poppins_light.xml" value="0.234375" />
+        <entry key="..\:/MP/RuangDiskusi/app/src/main/res/layout/activity_confirmation.xml" value="0.25" />
+        <entry key="..\:/MP/RuangDiskusi/app/src/main/res/layout/activity_history.xml" value="0.22" />
+        <entry key="..\:/MP/RuangDiskusi/app/src/main/res/layout/activity_info.xml" value="0.22" />
         <entry key="..\:/MP/RuangDiskusi/app/src/main/res/layout/activity_main.xml" value="0.22" />
       </map>
     </option>

@@ -4,4 +4,13 @@
     <string name="agreement">
         Saya paham dan siap menaati peraturan peminjaman ruang diskusi.
     </string>
+
+    <string name="keperluan">Diskusi Teknis Pengerjaan Lomba PKM</string>
+    <string name="tanggal">13 Juli 2022</string>
+    <string name="waktu">12.30 - 14.00 WIB</string>
+    <string name="jml_orang">6 orang</string>
+
+    <string name="info">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Massa, habitant non sit eu id natoque adipiscing sit.
+    </string>
 </resources>
